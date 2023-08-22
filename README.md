@@ -1,14 +1,10 @@
-# Hello 👋
+# Hi 👋, I'm Pattara Wangsook!  
+### Currently: RAI King Mongkut's Institute of Technology Ladkrabang  
 
-I'm Pattara Wangsook!  
-- Currently: RAI King Mongkut's Institute of Technology Ladkrabang  
-
-## WORK
-
-💬 Ask me about **godot**  
-📫 How to reach me **pattara2546za@hotmail.com**  
-👨‍💻 All of my projects are available at  **https://to-testone.github.io/**  
-⚡ Fun fact **I love to develop games**  
+- 💬 Ask me about **godot**  
+- 📫 How to reach me **pattara2546za@hotmail.com**  
+- 👨‍💻 All of my projects are available at  **https://to-testone.github.io/**  
+- ⚡ Fun fact **I love to develop games**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
