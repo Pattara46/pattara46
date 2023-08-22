@@ -5,7 +5,7 @@
 
 <h2>Experience</h2>
 
-| Year      | School |
+| Year        | School      |
 | ----------- | ----------- |
 | 2021-Present| KMITL       |
 | Paragraph   | Text        |
