@@ -5,14 +5,11 @@
 
 <h2>Experience</h2>
 <section>
-    <h3>2021 - Present</h3>
-    <h3>KMITL</h3>
-</section>
-<div>
-    <h3>2018 - 2021</h3>
-    <h3>PCSHS</h3>
-</div>
-<div>
-    <h3>2006 - 2018</h3>
-    <h3>ACR</h3>
-</div>
+    <nav>
+      <h3>2021-Present</h3>
+    </nav>
+    
+    <article>
+      <h3>KMITL</h3>
+    </article>
+  </section>
