@@ -4,11 +4,7 @@
 <p>Phone: 080-925-0529 Address: ???<br>E-mail pattara2546za@hotmail.com</p>
 
 <h2>Experience</h2>
-<div>
-    <div>
-        2021 - Present
-    </div>
-    <div>
-        KMTIL
-    </div>
-</div>
+| Year      | School |
+| ----------- | ----------- |
+| 2021-Present| KMITL       |
+| Paragraph   | Text        |
