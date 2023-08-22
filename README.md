@@ -6,9 +6,9 @@
 <h2>Experience</h2>
 <div>
     <div>
-        <h3>2021 - Present</h3>
+        2021 - Present
     </div>
     <div>
-        <h3>KMTIL</h3>
+        KMTIL
     </div>
 </div>
