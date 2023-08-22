@@ -8,8 +8,7 @@
     <nav>
       <h3>2021-Present</h3>
     </nav>
-    
-    <nav>
+    <article>
       <h3>KMITL</h3>
-    </nav>
+    </article>
 </section>
