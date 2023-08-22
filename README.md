@@ -4,10 +4,10 @@
 <p>Phone: 080-925-0529 Address: ???<br>E-mail pattara2546za@hotmail.com</p>
 
 <h2>Experience</h2>
-<div>
+<section>
     <h3>2021 - Present</h3>
     <h3>KMITL</h3>
-</div>
+</section>
 <div>
     <h3>2018 - 2021</h3>
     <h3>PCSHS</h3>
